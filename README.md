@@ -5,7 +5,6 @@
 
 * Overview
 * Essential Criteria
-* Mock Up 
 * Built With
 
 
@@ -23,10 +22,6 @@ I have applied the essential criteria as follows:
 * When all questions are answered or the timer reaches 0, the game is over
 * Then I can save my initials and score 
 
-## Mock-Up
-
-The following image shows the web application's appearance and functionality:
-https://github.com/AlexNanut/JavaScript-Code-Quiz-/blob/main/Assets/03-javascript-homework 4-demo.png
 
 # Built With
 
@@ -34,3 +29,5 @@ In order to complete this challange, I applied the skills that I leard in the pa
 
 
 Below is the link to the deployed application: 
+
+https://alexnanut.github.io/JavaScript-Code-Quiz-/
