@@ -26,8 +26,7 @@ I have applied the essential criteria as follows:
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
-
-![The Password Generator application displays a red button to "Generate Password".]https://github.com/AlexNanut/Password-Generator/blob/main/Assets/03-javascript-homework-demo.png
+https://github.com/AlexNanut/JavaScript-Code-Quiz-/blob/main/Assets/03-javascript-homework 4-demo.png
 
 # Built With
 
