@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Code Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+        <div class="title">JavaScript Quiz</div>
+        <div class="timer">
+            <div class="time_left_txt">Time Left</div>
+            <div id="timer_sec">15</div>
+        </div>
+        <div class="time_line"></div>
+    </header>
+    <div class="start_btn"><button> Start Quiz</button></div>
+<!-- Quiz Box -->
+<div class="quiz_box" id="quiz_box" hidden >
+    
+    
+
+    <section>
+        <div class="que_text">
+            
+        </div>
+        <div class="option_list">
+            <div class = "answer" ></div>
+        </div>
+    </section>
+    <!-- footer of Quiz Box -->
+    <footer>
+        <div class="total_que">
+           
+        </div>
+        <button class="next_btn">Next Que</button>
+    </footer>
+</div>
+<!-- Result Box -->
+<div class="result_box">
+    <div class="icon">
+        <i class="fas fa-crown"></i>
+    </div>
+    <div class="complete_text">You've completed the Quiz!</div>
+    <div class="score_text">
+       
+    </div>
+    <div class="buttons">
+        <button class="restart">Replay Quiz</button>
+        <button class="quit">Quit Quiz</button>
+    </div>
+</div>
+
+  <script src= "questions.js"></script>
+  <script src="script.js"></script>
+  
+</body>
+</html>
+
